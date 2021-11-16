@@ -4,7 +4,7 @@ In this repository, I place a example about how to design a specific sampler in 
 This is a simple example. And we can add some other scripts according to our need.
 
 ## Run the example
-This example aims to get the samples which have the same labels.
+This example aims to get the samples which have the same labels in each batch.
 
 ```
 python design_sampler_example.py
